@@ -34,6 +34,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
   </a>
   -
+  <a href="https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  </a>
+  -
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
   </a>
