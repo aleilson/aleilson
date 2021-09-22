@@ -2,7 +2,7 @@
 
 - 🔭  Hoje eu sou front-end pleno
 - 🌱  Estudando Next.js
-- 📫  Envie um e-mail para: aleilsondeveloper@gmail.com
+- 📫  Envie um e-mail para: aleilsoncerqueira@gmail.com
 
 <hr>
 <div>
