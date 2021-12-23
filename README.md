@@ -1,6 +1,6 @@
 ## Salve Galera, eu sou o Ale 👋
 
-- 🔭  Hoje eu sou front-end pleno
+- 🔭  Hoje eu sou front-end sênior
 - 🌱  Estudando Next.js
 - 📫  Envie um e-mail para: aleilsoncerqueira@gmail.com
 
