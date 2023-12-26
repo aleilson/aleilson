@@ -1,8 +1,8 @@
-## Salve Galera, eu sou o Ale 👋
+## Hello everyone, I'm Ale 👋
 
-- 🔭  Hoje eu sou front-end sênior
-- 🌱  Estudando Next.js
-- 📫  Envie um e-mail para: aleilsoncerqueira@gmail.com
+- 🔭  Today I am a senior front-end engineer
+- 🌱  Studying Next.js
+- 📫  Send an email to: aleilsoncerqueira@gmail.com
 
 <hr>
 <div>
