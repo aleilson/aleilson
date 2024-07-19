@@ -1,7 +1,7 @@
 ## Hello everyone, I'm Ale 👋
 
 - 🔭  Today I am a senior front-end engineer
-- 🌱  Studying Next.js
+- 🌱  Studying node.js
 - 📫  Send an email to: aleilsoncerqueira@gmail.com
 
 <hr>
