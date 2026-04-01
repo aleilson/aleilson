@@ -30,16 +30,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </div>
 
-<br/>
-```
-TypeScript   ████████████████████ 95%
-React        ████████████████████ 95%
-Next.js      ██████████████████░░ 90%
-React Native ████████████████░░░░ 80%
-CSS / Sass   ██████████████████░░ 90%
-Node.js      ████████████░░░░░░░░ 60%
-```
-
 <hr>
 
 ## Featured projects
