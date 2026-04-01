@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Ale&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header" />
 </div>
 
 <div align="center">
@@ -16,25 +16,6 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleilson&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=aleilson&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleilson&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleilson&theme=tokyo-night&hide_border=true" />
-</div>
-
-<hr>
-
 ## Tech stack
 
 <div>
@@ -48,6 +29,16 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </div>
+
+<br/>
+```
+TypeScript   ████████████████████ 95%
+React        ████████████████████ 95%
+Next.js      ██████████████████░░ 90%
+React Native ████████████████░░░░ 80%
+CSS / Sass   ██████████████████░░ 90%
+Node.js      ████████████░░░░░░░░ 60%
+```
 
 <hr>
 
